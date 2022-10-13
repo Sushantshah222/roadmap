@@ -1,4 +1,4 @@
-#Robotics Roadmap
+# Robotics Roadmap
 
 Roadmap has been splitted in to four parts:
 - Robots and Controllers
@@ -81,6 +81,7 @@ Roadmap has been splitted in to four parts:
 ### Robot Software
 
 ## Localization and Navigation
+
 ## Maze Navigation
 
 - Maze Exploration Algorithm
@@ -95,7 +96,7 @@ Roadmap has been splitted in to four parts:
 - Image Segmentation
 - Image Coordinate v/s World Coordinates
 
-##Automotive System
+## Automotive System
 
 - Computer Vision 
 - OpenCV and KITTI
